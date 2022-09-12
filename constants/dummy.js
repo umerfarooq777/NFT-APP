@@ -3,8 +3,8 @@ import assets from "./assets";
 const NFTData = [
   {
     id: "NFT-01",
-    name: "Abstracto #312",
-    creator: "Putri Intan",
+    name: "Abstracto #3121",
+    creator: "Putri Intan Deo",
     price: 4.25,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
@@ -26,6 +26,26 @@ const NFTData = [
       },
       {
         id: "BID-13",
+        name: "Rosie Wong",
+        price: 4.75,
+        image: assets.person04,
+        date: "December 31, 2019 at 3:50 PM",
+      },{
+        id: "BID-14",
+        name: "Jessica Tan",
+        price: 4.25,
+        image: assets.person02,
+        date: "December 12, 2019 at 12:10 PM",
+      },
+      {
+        id: "BID-15",
+        name: "Jennifer Sia",
+        price: 4.5,
+        image: assets.person03,
+        date: "December 27, 2019 at 1:50 PM",
+      },
+      {
+        id: "BID-16",
         name: "Rosie Wong",
         price: 4.75,
         image: assets.person04,
