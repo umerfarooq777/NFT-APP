@@ -1,9 +1,9 @@
 import React from 'react'
 import { StyleSheet, Text, View ,StatusBar} from 'react-native';
 
-const Details = () => {
+const Details = ({data}) => {
   return (
-    <Text>Home</Text>
+    <Text>Details {data} ok</Text>
   )
 }
 
